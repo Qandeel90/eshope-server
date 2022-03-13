@@ -61,25 +61,23 @@ exports.Order = mongoose.model('Order', orderSchema);
 
 /**
 Order Example:
-
 {
     "orderItems" : [
         {
             "quantity": 3,
-            "product" : "5fcfc406ae79b0a6a90d2585"
+            "product" : "617aa1815fbb4336e0b35e11"
         },
         {
             "quantity": 2,
-            "product" : "5fd293c7d3abe7295b1403c4"
+            "product" : "6177db39c4fa822850025b38"
         }
     ],
     "shippingAddress1" : "Flowers Street , 45",
     "shippingAddress2" : "1-B",
-    "city": "Prague",
+    "city": "sialkot",
     "zip": "00000",
-    "country": "Czech Republic",
-    "phone": "+420702241333",
-    "user": "5fd51bc7e39ba856244a3b44"
+    "country": "paksitan",
+    "phone": "+143141241",
+    "user": "617a893ca7619c330cda33ce"
 }
-
  */
